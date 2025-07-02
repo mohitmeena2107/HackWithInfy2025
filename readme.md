@@ -45,3 +45,10 @@
 - **Approach Summary:**  
   Use a max-heap to store fuel capacities of stations passed. Whenever fuel runs low, refuel using the station with the most stored fuel to minimize the number of stops.
 - **Status:** ✅ Solved
+
+### 🔹 6. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+
+- **Problem Link:** [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K – LeetCode](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+- **Approach Summary:**  
+  First of all add all the fibonacci numbers upto k in a list then apply the coin change approach for a greedy solution
+- **Status:** ✅ Solved
