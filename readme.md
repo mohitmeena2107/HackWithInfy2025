@@ -33,7 +33,8 @@
 
 - **Problem Link:** [Maximum Profit in Job Scheduling – LeetCode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 - **Approach Summary:**  
-  Sort jobs by profit in descending order. For each job, try to assign it to the latest available slot before its deadline to maximize total profit.
+  Sort jobs by thier finish time. apply binary search to find the next index with finish time less than equal the current jobs start time.
+  Use a dp array;
 - **Status:** ✅ Solved
 
 ---
