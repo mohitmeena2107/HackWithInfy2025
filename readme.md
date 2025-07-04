@@ -52,3 +52,10 @@
 - **Approach Summary:**  
   First of all add all the fibonacci numbers upto k in a list then apply the coin change approach for a greedy solution
 - **Status:** ✅ Solved
+
+### 🔹 7. Buy Two Chocolates
+
+- **Problem Link:** [2706. Buy Two Chocolates – LeetCode](https://leetcode.com/problems/buy-two-chocolates/description/)
+- **Approach Summary:**  
+  Sort the array and check for the first 2 choclates if possible then return subtraaction otherwise return the money
+- **Status:** ✅ Solved
