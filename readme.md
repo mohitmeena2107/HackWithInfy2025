@@ -65,3 +65,9 @@
 - **Approach Summary:**  
   Sort the array and add all even indices
 - **Status:** ✅ Solved
+
+### 🔹 9. DI String Match
+- **Problem Link:** [DI String Match – LeetCode](https://leetcode.com/problems/di-string-match/)
+- **Approach Summary:**  
+  Take all lower numbers first if increasing then take highest first on decreasing
+- **Status:** ✅ Solved
