@@ -54,8 +54,14 @@
 - **Status:** ✅ Solved
 
 ### 🔹 7. Buy Two Chocolates
-
-- **Problem Link:** [2706. Buy Two Chocolates – LeetCode](https://leetcode.com/problems/buy-two-chocolates/description/)
+- **Problem Link:** [Buy Two Chocolates – LeetCode](https://leetcode.com/problems/buy-two-chocolates/description/)
 - **Approach Summary:**  
   Sort the array and check for the first 2 choclates if possible then return subtraaction otherwise return the money
+- **Status:** ✅ Solved
+
+
+### 🔹 8. Array Partition
+- **Problem Link:** [Array Partition – LeetCode](https://leetcode.com/problems/array-partition/description/)
+- **Approach Summary:**  
+  Sort the array and add all even indices
 - **Status:** ✅ Solved
